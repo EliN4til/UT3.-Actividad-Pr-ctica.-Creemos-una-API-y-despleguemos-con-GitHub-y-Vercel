@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "quote": "Los programas deben ser escritos para que las personas los lean, y solo incidentalmente para que las maquinas los ejecuten.",
+    "author": "Harold Abelson",
+    "year": 1984
+  },
+  {
+    "id": 2,
+    "quote": "El software es una gran combinacion entre arte e ingenieria.",
+    "author": "Bill Gates",
+    "year": 1995
+  },
+  {
+    "id": 3,
+    "quote": "La mejor forma de predecir el futuro es inventarlo.",
+    "author": "Alan Kay",
+    "year": 1971
+  },
+  {
+    "id": 4,
+    "quote": "Tu tiempo es limitado, asi que no lo desperdicies viviendo la vida de alguien mas.",
+    "author": "Steve Jobs",
+    "year": 2005
+  }
+]
